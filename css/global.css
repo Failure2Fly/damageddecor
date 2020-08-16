@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+}
+.top-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    border-bottom: black solid 1px;
+    height: 80px;
+    font-size: 24px;
+}
+.top-nav-left{
+
+}
+.nav-logo{
+    width: 20%;
+    margin-top: 6px;
+}
+.top-nav-right{
+
+}
+.nav-item{
+    margin: 0px 40px 0px 40px;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: black;
+}
